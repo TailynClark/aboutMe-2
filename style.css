@@ -1,0 +1,154 @@
+#work_text h1, h1 {
+    font-size: 45px;
+    line-height: 1.0769;
+    font-weight: 300;
+    padding-top: 10px;
+    font-family:'Raleway';
+}
+
+#work_text h1, #boxright a:hover {
+    color: white;
+}
+
+h1{
+    display: block;
+    font-size: 1em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-top: 15px;
+    float: left;
+	height: 45px;
+	width: 100%;
+    padding-left: 2%;
+    word-spacing: 2%;
+}
+
+h2{
+    
+    font-size: 2.5em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-top: -5%;
+    float: left;
+	height: 45px;
+	width: 100%;
+    padding-left: 50%; 
+    font-family: 'Raleway';
+    color: black;
+    letter-spacing: 2px;
+}
+h3{
+    
+    font-size: 5em;
+    float: left;
+    padding-left: 10%; 
+    font-family: 'Raleway';
+    color: lightgrey;
+}
+
+h4 {
+    font-family: 'Raleway';
+    float: left;
+    padding-left: 50%;
+    font-size: 1.7em;
+    margin-top: 10%;
+
+}
+ul {
+    list-style-type: none;
+    margin: 2.1%;
+    padding-left: 85%;
+    color: black;
+    word-spacing: .5em;
+    font-size: .8em;
+    font-family: "Raleway";
+    font-weight: 600;
+    margin-top: 10%;
+    letter-spacing: .1em;
+  
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  
+  ul a:hover{
+    color: lightgrey;
+  }
+  
+  a {text-decoration:none;
+    color: black
+
+}
+
+
+#container3 {
+    text-align: left;
+}
+
+body{
+    font: 18px;
+    
+    background: white;
+    color: white;
+}
+
+p {
+    float: left;
+	height: 45px;
+	width: 35%;
+    padding: 12px;
+    padding-left: 50%;
+    margin-top: -3%, %;
+    font-size: 1em;
+    font-family: 'Raleway';
+    color: black;
+    line-height: 2em;
+    font-weight: 700;
+}
+
+#nav {
+    display: grid;
+    position: absolute; 
+    text-align: right;
+    padding-left: 70%;
+    margin-top: 15px;
+    font-size: .7em;
+    word-spacing: normal;
+    word-spacing: 3rem;
+    word-spacing: 10px;
+    word-spacing: 120%;
+    word-spacing: 4ch;
+    font-family:'Raleway',sans-serif;
+    color:grey;
+}
+.button {
+    float: left;
+    margin-right: 50%;
+    background-color: lightgrey ;
+    order: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px
+    
+    
+}
+
+#social{
+    margin-top: 45%;
+    padding-left: 50%;
+    word-spacing: 1em;
+    
+    
+}
+span {line-height: 20px; font-size: 1em; word-spacing: 1em;}
+span:hover {font-size: 4em; color: lightgrey;}
+
